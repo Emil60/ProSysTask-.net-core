@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pHFyEdgD0QwsdGQV+qDO/stLSI/Ms6KLOxFTNhzL+eRRJnYn32OvJZhTWuPyF1pyBeBR0rkpEPGHijktJMe+Vg==",
+  "dgSpecHash": "9Fn1cfQxZqCo1eg3fQLQ/Vs6ehRTQMPEWnczzvewqx5pp5efU0xn9vjhGTXWhSg6a8/jdi8/a/UgwrfoN4LSZg==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\C#\\prosystask1\\prosystask1\\prosystask1.csproj",
+  "projectFilePath": "D:\\Desktop\\C#\\ProSysTask\\prosystask1\\prosystask1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ojagverdiyev\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Ojagverdiyev\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

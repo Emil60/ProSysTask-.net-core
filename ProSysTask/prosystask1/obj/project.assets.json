@@ -8480,11 +8480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\C#\\prosystask1\\prosystask1\\prosystask1.csproj",
+      "projectUniqueName": "D:\\Desktop\\C#\\ProSysTask\\prosystask1\\prosystask1.csproj",
       "projectName": "prosystask1",
-      "projectPath": "D:\\Desktop\\C#\\prosystask1\\prosystask1\\prosystask1.csproj",
+      "projectPath": "D:\\Desktop\\C#\\ProSysTask\\prosystask1\\prosystask1.csproj",
       "packagesPath": "C:\\Users\\Ojagverdiyev\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\C#\\prosystask1\\prosystask1\\obj\\",
+      "outputPath": "D:\\Desktop\\C#\\ProSysTask\\prosystask1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ojagverdiyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
